@@ -77,29 +77,29 @@ while ci<=set:
 
 - 使用前请将发送快捷键设置为Enter！
 
-  ## 更改内容
+## 更改内容
 
-  保留发送、设置文字和获取文字方法，删去监测方法，添加循环调用和GUI界面。
+保留发送、设置文字和获取文字方法，删去监测方法，添加循环调用和GUI界面。
 
-  ## V1.0
+## V1.0
 
-  #### 如何使用？
+### 如何使用？
 
-  首先，特别是对于一个业余才写程序的学生来说，程序的开始一般都是黑底白字。
+首先，特别是对于一个业余才写程序的学生来说，程序的开始一般都是黑底白字。
 
-  然后填写参数即可刷屏。
+然后填写参数即可刷屏。
 
-  ## V2.0
+## V2.0
 
-  #### 更新内容
+### 更新内容
 
 - TIM测试成功
 
 - 增加可视化界面
 
-  ![QQ刷屏助手V2.0](https://img-blog.csdnimg.cn/20200521221836812.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3R0Njg2ODY=,size_16,color_FFFFFF,t_70#pic_center)
+![QQ刷屏助手V2.0](https://img-blog.csdnimg.cn/20200521221836812.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3R0Njg2ODY=,size_16,color_FFFFFF,t_70#pic_center)
 
-  看到这个界面大家就比较熟悉了吧？不用我多说什么了吧？
+看到这个界面大家就比较熟悉了吧？不用我多说什么了吧？
 
 ## 下载
 2.0可以在[我的网盘](https://n802.com/dir/27256477-39300593-4f1b29)或存储库中下载，1.0不共享
